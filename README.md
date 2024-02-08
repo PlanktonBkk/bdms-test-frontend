@@ -1,37 +1,31 @@
-# Navigation Example
+# Quizzes Example 
+ Quizzes will be refresh when you reload app or click at Refresh button or swith the page, this feature is not focus on user behaviors but for prove of concept how the app loading , running and refreshing data.
 
-<p>
-  <!-- iOS -->
-  <a href="https://itunes.apple.com/app/apple-store/id982107779">
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  </a>
-  <!-- Android -->
-  <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample">
-    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  </a>
-  <!-- Web -->
-  <a href="https://docs.expo.dev/workflow/web/">
-    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-  </a>
-</p>
+ 
+## 🚀 How to start bundler
 
-## 🚀 How to use
+- Clone code into your localhost;
+- Run 'npm install' to install nodes_modules.
+- Run  `npm start` to start the bundler.
+- You should see QRCode as below image.
 
-- Install packages with `yarn` or `npm install`.
-- Run `yarn start` or `npm run start` to start the bundler.
-- Open the project in a React runtime to try it:
-  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
-  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
-  - Web: Any web browser
-- When it's time to customize your runtime, refer to the ["Adding custom native code"](https://docs.expo.dev/workflow/customizing/) guide!
+![image](https://github.com/PlanktonBkk/bdms-test-frontend/assets/61401107/6d13b0ab-c595-49d3-a93a-89b8d5388cc3)
 
-## Publishing
+ 
 
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
+## 🚀 How test feature on your Mobile phone.
+- download Expo on App Store (for ios) or Playstore(for android).
+-  Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+-  The application should show in your device as below.
 
-## 📝 Notes
+[For Quizzes]
+ 
+  ![image](https://github.com/PlanktonBkk/bdms-test-frontend/assets/61401107/2ebca49f-8248-4b7f-91ad-9392ef3ecf59)
 
-- Learn more about [Universal React](https://docs.expo.dev/).
-- See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
-- Find out more about developing apps and websites: [Official guides](https://docs.expo.dev/guides/).
+
+[For Leader Board]
+
+![image](https://github.com/PlanktonBkk/bdms-test-frontend/assets/61401107/cf248917-271b-41eb-9526-5c76ebfd8802)
+
+
+ 
